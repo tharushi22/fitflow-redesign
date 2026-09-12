@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# React Native
+.expo/
+android/.gradle/
+ios/Pods/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
